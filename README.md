@@ -53,10 +53,10 @@ Merge the included `opencode.json` provider section into your configuration. In 
 ## Install the skill
 
 ```sh
-npx skills add hesoyambusiness/1nfer-agent-kit
+npx skills add 1nfernet/1nfer-agent-kit
 ```
 
-Verified on 9 October 2026: `npx skills add hesoyambusiness/1nfer-agent-kit --agent opencode --yes` installed this skill and its Python client in an isolated local directory. This verifies installation, not a complete OpenCode coding session or registry approval. Inspect SKILL.md and the script first. The skill helps an agent evaluate the service and purchase only within its operator's permission and budget.
+Installation was verified on 9 October 2026, before the project account was renamed to `1nfernet`: the skills CLI installed this skill and its Python client in an isolated local directory. The updated command above uses the new account name. This verifies installation, not a complete OpenCode coding session or registry approval. Inspect SKILL.md and the script first. The skill helps an agent evaluate the service and purchase only within its operator's permission and budget.
 
 ## Invite after a useful task
 
@@ -68,7 +68,7 @@ A useful recommendation includes the task, exact model, measured cost and your p
 
 Share your public invitation voluntarily with a relevant audience, along with a real workload and cost. Never share an API key. Any service-credit pilot is governed by current published terms and your private funnel; no cash or multilevel payouts, rewards for account creation or guaranteed growth. Disclose possible referral credit. No mass unsolicited messaging or fake reviews.
 
-For a separately scoped branded router/bot deployment: [HESOYAM](https://hesoyam.business/router?utm_source=github&utm_medium=agent_kit&utm_campaign=launch). Scope, price, delivery and support are agreed before payment; business packages do not guarantee revenue.
+For a separately scoped branded router/bot deployment: [1NFER](https://1nfer.net/guides/launch-your-service.html). Scope, price, delivery and support are agreed before payment; business packages do not guarantee revenue.
 
 ## Verification
 
